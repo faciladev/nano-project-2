@@ -13,3 +13,5 @@ YAML code for the servers infrastructure.
 #### 2-servers-parameters.json
 JSON parameters for the servers infrastructure.
 
+#### project2solution.png
+Infrastructure Diagram
